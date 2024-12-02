@@ -25,5 +25,8 @@ Some other topics I am getting into include:
 - Programming languages: functional programming, language translation, compiler design
 - Functional equations
 
+I am proud to teach elementary and high school students 
+competitive programming at Zagrebački Računalni Savez.
+
 My favourite approach to mathematical problems is setting up inequalities.
 
