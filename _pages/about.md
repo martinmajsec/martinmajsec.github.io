@@ -15,7 +15,7 @@ I am currently working on an [open problem regarding spanning trees](http://gard
 under the supervision of Prof. Anamari Nakić.
 
 I am interested in most areas of research in mathematics and computer science related to algorithms. 
-Some of my particular interests are  
+Some particular interests include:  
 - Complexity theory: hardness, reductions
 - Combinatorics: discrete mathematics, graph theory, combinatorial game theory
 - Algorithms and their analysis
