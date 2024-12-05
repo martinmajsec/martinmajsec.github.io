@@ -13,7 +13,7 @@ About me
 I am a third year computer science student at the [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en). 
 As part of [MODISTe](https://www.fer.unizg.hr/modiste) (site in Croatian), 
 I am currently working on an [open problem regarding spanning trees](http://garden.irmacs.sfu.ca/op/minimal_graphs_with_a_prescribed_number_of_spanning_trees) 
-under the supervision of Prof. Anamari Nakić.
+under the supervision of prof. dr. sc. Anamari Nakić.
 
 I am interested in most areas of research in mathematics and computer science related to algorithms. 
 Some particular interests include:  
@@ -37,7 +37,7 @@ challenges to clever use of well-known algorithms.
 My favorite approach to mathematical problems is setting up inequalities.
 When that doesn't work, I also like boxing and swimming.
 
-For my biography, see my CV. Check out my projects on [GitHub](https://github.com/martinmajsec).
+Check out my projects on [GitHub](https://github.com/martinmajsec).
 
 
 [Last updated on December 5th 2024]
