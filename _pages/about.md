@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a 3rd year computer science student at [FER](https://www.fer.unizg.hr/en). 
+I am a third year computer science student at the [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en). 
 As part of [MODISTe](https://www.fer.unizg.hr/modiste) (site in Croatian), 
 I am currently working on an [open problem regarding spanning trees](http://garden.irmacs.sfu.ca/op/minimal_graphs_with_a_prescribed_number_of_spanning_trees) 
 under the supervision of Prof. Anamari Nakić.
@@ -21,12 +21,20 @@ Some particular interests include:
 - Algorithms and their analysis
 - Approximation algorithms
 
-Some other topics I am getting into include:
+Some other topics I am looking into include:
 - Programming languages: functional programming, language translation, compiler design
 - Functional equations
 
 I am proud to teach elementary and high school students 
 competitive programming at Zagrebački Računalni Savez.
+The lectures are primarily designed to prepare the students for the state
+competitions Infokup and COCI, where participants face 3–4 problems that range from ad hoc implementation
+challenges to clever use of well-known algorithms.
 
-My favourite approach to mathematical problems is setting up inequalities.
+My favorite approach to mathematical problems is setting up inequalities.
+I also like boxing and swimming.
 
+For my biography, see my CV. Check out my projects on GitHub.
+
+
+[Last update on December 5th 2024]
