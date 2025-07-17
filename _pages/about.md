@@ -10,21 +10,21 @@ redirect_from:
 About me
 ==========
 
-I am a third year computer science student at the [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en). 
+I am computer science student at the [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en). 
 As part of [MODISTe](https://www.fer.unizg.hr/modiste) (site in Croatian), 
-I am currently working on an [open problem regarding spanning trees](http://garden.irmacs.sfu.ca/op/minimal_graphs_with_a_prescribed_number_of_spanning_trees) 
-under the supervision of prof. dr. sc. Anamari Nakić.
+I recently completed my final thesis on an [open problem regarding spanning trees](http://garden.irmacs.sfu.ca/op/minimal_graphs_with_a_prescribed_number_of_spanning_trees) 
+under the supervision of prof. dr. sc. Anamari Nakić. 
+I am currently working on [Virtue](http://grgur.irb.hr/Virtue/), a programming language by Zorislav Shoyat that enables automatic parallel execution of programs.
 
 I am interested in most areas of research in mathematics and computer science related to algorithms. 
 Some particular interests include:  
 - Complexity theory: hardness, reductions
 - Combinatorics: discrete mathematics, graph theory, combinatorial game theory
-- Algorithms and their analysis
+- Computability and decidability
 - Approximation algorithms
 
 Some other topics I am looking into include:
 - Programming languages: functional programming, language translation, compiler design
-- Functional equations
 
 I am proud to teach elementary and high school students 
 competitive programming at Zagrebački Računalni Savez.
@@ -40,4 +40,4 @@ When that doesn't work, I also like boxing and swimming.
 Check out my projects on [GitHub](https://github.com/martinmajsec).
 
 
-[Last updated on December 5th 2024]
+[Last updated on July 17th 2025]
