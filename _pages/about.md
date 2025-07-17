@@ -40,4 +40,4 @@ When that doesn't work, I also like boxing and swimming.
 Check out my projects on [GitHub](https://github.com/martinmajsec).
 
 
-[Last updated on July 17th 2025]
+[Last updated on July 17, 2025]
