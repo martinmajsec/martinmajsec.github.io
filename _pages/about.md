@@ -10,11 +10,11 @@ redirect_from:
 About me
 ==========
 
-I am computer science student at the [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en). 
+I am a computer science student at the [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en). 
 As part of [MODISTe](https://www.fer.unizg.hr/modiste) (site in Croatian), 
-I recently completed my final thesis on an [open problem regarding spanning trees](http://garden.irmacs.sfu.ca/op/minimal_graphs_with_a_prescribed_number_of_spanning_trees) 
+I recently completed my final thesis on an [open problem related to spanning trees](http://garden.irmacs.sfu.ca/op/minimal_graphs_with_a_prescribed_number_of_spanning_trees) 
 under the supervision of prof. dr. sc. Anamari Nakić. 
-I am currently working on [Virtue](http://grgur.irb.hr/Virtue/), a programming language by Zorislav Shoyat that enables automatic parallel execution of programs.
+I am currently working on [Virtue](http://grgur.irb.hr/Virtue/), a programming language developed by Zorislav Shoyat that enables automatic parallel execution of programs.
 
 I am interested in most areas of research in mathematics and computer science related to algorithms. 
 Some particular interests include:  
@@ -23,10 +23,10 @@ Some particular interests include:
 - Computability and decidability
 - Approximation algorithms
 
-Some other topics I am looking into include:
+Some other topics I am interested in include:
 - Programming languages: functional programming, language translation, compiler design
 
-I am proud to teach elementary and high school students 
+I am proud to teach competitive programming to elementary and high school students.
 competitive programming at Zagrebački Računalni Savez.
 Over the course of three years, I have regularly mentored a total of over 20 students,
 guiding two groups of 4–8 students per year.
