@@ -14,7 +14,7 @@ I am a computer science student at the [Faculty of Electrical Engineering and Co
 As part of [MODISTe](https://www.fer.unizg.hr/modiste), 
 I recently completed my BSc thesis on an [open problem related to spanning trees](http://garden.irmacs.sfu.ca/op/minimal_graphs_with_a_prescribed_number_of_spanning_trees) 
 under the supervision of prof. dr. sc. Anamari Nakić. 
-I am currently working on Virtue, a programming language developed by Zorislav Shoyat that enables automatic parallel execution of programs.
+I've most recently worked on Virtue, a programming language developed by Zorislav Shoyat that enables automatic parallel execution of programs.
 
 I am interested in most areas of research in mathematics and computer science related to algorithms. 
 Some particular interests include:  
@@ -36,5 +36,7 @@ When that doesn't work, I also like boxing and swimming.
 
 Check out my projects on [GitHub](https://github.com/martinmajsec).
 
+Selected Programs and Summer Schools:
+- [CMMRS 2025](https://cmmrs.mpi-sws.org/) - The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science
 
 [Last updated on August 17, 2025]
