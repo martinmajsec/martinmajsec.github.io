@@ -10,8 +10,7 @@ redirect_from:
 About me
 ==========
 
-I am a computer science student at the [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en), currently on an exchange semester at the [École Polytechnique Fédérale de Lausanne
-] (https://www.epfl.ch/en/). 
+I am a computer science student at the [Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en), currently on an exchange semester at the [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). 
 As part of [MODISTe](https://www.fer.unizg.hr/modiste), 
 I recently completed my [BSc thesis](https://repozitorij.fer.unizg.hr/islandora/object/fer:13985) on an open problem related to spanning trees
 under the supervision of prof. dr. sc. Anamari Nakić. 
